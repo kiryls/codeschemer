@@ -1,0 +1,2 @@
+background #756AB6
+text #FFE5E5
